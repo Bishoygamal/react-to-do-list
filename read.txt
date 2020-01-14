@@ -1,0 +1,2 @@
+npm install --save uuid bootstrap
+npm install --save-dev @fortawesome/fontawesome-free
